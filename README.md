@@ -65,7 +65,7 @@
 ```
 > 假如你是一名纯粹的前端工程师，使用webpack构建website的目录结构大概就这样了，当然你也可以根据自己的喜好自由设计目录结构。
 >
-> 详细的代码全貌可以提前在这里“窥看”——<https://github.com/vhtml/webpack-MultiPage-static>。
+> 详细的代码全貌可以提前在这里“窥看”——<https://github.com/chenli1989/webpack-MultiPage-static>。
 
 目录组织好，我们就可以开始撸代码了。
 
