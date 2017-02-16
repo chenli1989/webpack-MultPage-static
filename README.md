@@ -1,4 +1,4 @@
-## 基于webpack的前端工程化开发之多页站点篇（一）
+## 基于webpack的前端工程化开发之多页站点
 
 
 在最初接触webpack的较长一段时间里，我（也可能很多人）都觉得webpack是专为单页应用而量身打造的，比如webpack+react、webpack+vue等，都可以近乎完美的解决各种资源的依赖加载、打包的问题。甚至css都是打包在js里去动态添加到dom文档中去。
@@ -339,5 +339,3 @@ module.exports = {
 
 - 假如你是个懒人，可能会觉得目前的配置不够智能，每增加一个页面，就得再手动添加入口文件及模板配置。
 - 假如你是个全栈工程师或者以nodejs做中间层的开发者，你的模板不是纯粹的html，但是又需要像html模板那样能自动根据需要添加css与js文件。
-
-还等什么，快戳这里吧——[基于webpack的前端工程化开发之多页站点篇（二）](https://github.com/chenli1989/webpack-MultiplePage)
